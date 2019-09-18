@@ -1,0 +1,22 @@
+.red{
+  font-size: 20px;
+  font-weight: 600;
+  padding:20px;
+  background:lightcoral;
+  color:white;
+}
+.orange{
+  padding:20px;
+  background: rgb(255, 180, 41);
+  color:black;
+}
+.blue{
+  padding:20px;
+  background:lightblue;
+  color:white;
+}
+.green{
+  padding:20px;
+  background:rgb(121, 199, 121);
+  color:black;
+}
